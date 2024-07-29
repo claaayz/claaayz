@@ -15,15 +15,6 @@ Hello! I'm a Web Developer from Sweden. I'm passionate about building dynamic an
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=claaayz&show_icons=true&theme=radical&count_private=true" alt="André's GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claaayz&layout=compact&theme=radical" alt="André's Most Used Languages" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

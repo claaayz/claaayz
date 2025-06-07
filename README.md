@@ -11,7 +11,7 @@ Hello! I'm a Web Developer from Sweden. I'm passionate about building dynamic an
 - 🎯 **Current Focus:** Full-Stack Web Development
 - 🚀 **Learning:** Next.js
 - 👥 **Collaborating on:** Open Source Web Projects
-- 🌐 **Website:** [My Portfolio](https://claaayz.com)
+- 🌐 **Website:** [My Portfolio](https://clayz.dev)
 
 ---
 

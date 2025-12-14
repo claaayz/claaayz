@@ -1,21 +1,19 @@
-# 👋 Hey there! I'm André
+# 👋 Hej! Jag är André
 
-![Profile Views](https://komarev.com/ghpvc/?username=claaayz&color=blueviolet&style=for-the-badge	)
-
----
-
-## 🧑‍💻 About Me
-
-Hello! I'm a Web Developer from Sweden. I'm passionate about building dynamic and responsive web applications. I love to explore new technologies and leverage them to solve real-life problems.
-
-- 🎯 **Current Focus:** Full-Stack Web Development
-- 🚀 **Learning:** Next.js
-- 👥 **Collaborating on:** Open Source Web Projects
-- 🌐 **Website:** [My Portfolio](https://clayz.dev)
+![Profil Visningar](https://komarev.com/ghpvc/?username=claaayz&color=blueviolet&style=for-the-badge	)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Om mig
+
+Jag är en självlärd webbutvecklare som är baserad i Stockholm, Sverige. Jag bygger webbplatser och webbappar som både ser bra ut och har sin betydelse.
+
+- 🎯 **Mitt fokus:** Fullstack Webbutveckling
+- 🌐 **Webbsida:** [Min](https://clayz.dev)
+
+---
+
+## 🛠️ Kompetenser (inget speciellt)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,12 +29,11 @@ Hello! I'm a Web Developer from Sweden. I'm passionate about building dynamic an
 
 ---
 
-## 💬 Connect with Me
+## 💬 Kontakta mig
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/claaayz69)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrenoren000@gmail.com)
+[![E-post](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:undefined@clayz.dev)
 
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out and connect! 😊
+Hör gärna av dig om du undrar eller har frågor gällande något 😊
